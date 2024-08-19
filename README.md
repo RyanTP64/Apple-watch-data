@@ -6,9 +6,9 @@ The aim of this project is to explore my watch data, to reduce the number of day
 
 As I think about how to become more consistent, I will explore two areas:
 
-_a) Are there days/ months I'm consistently moving less?
+_a) Are there days/ months I'm consistently moving less?_
 
-b) Is there any connection between my movement and other data?_
+_b) Is there any connection between my movement and other data?_
 
 Such as my sleep, stepcount, or the presence or absence of a dedicated workout.
 
